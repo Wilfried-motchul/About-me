@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(75, 75, 139)
+
+}
+p{
+    font-family: "Courier New", Courier, monospace;
+    float: left;
+    width: 50%;
+    font-size: large;
+}
+h1{
+    font-size: xx-large;
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+    color: whitesmoke;
+    padding-bottom: 2cm;
+}
+img{
+    float: left;
+}
