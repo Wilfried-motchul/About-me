@@ -18,3 +18,20 @@ h1{
 img{
     float: left;
 }
+
+
+
+
+
+
+'use strict';
+
+//create an app that will take a user name, respond if the username is correctly formatted or not, and respond if the username is a specific user form a list of specific username.
+
+var username = prompt('Hello! what is your name?');
+
+//string concatentation
+console.log('username'+username+'welcome to the app!');
+
+//template literals
+console.log(`username is: ${username} welcome to the app, using string literals`)
