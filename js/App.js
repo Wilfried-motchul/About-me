@@ -14,7 +14,7 @@ var scrore = 0;
 function YesAndNoQuestion(){
 
     // document.write('<h3>answer the following question by yes,y or no,n</h3>');
-    alert('nswer the following question by yes,y or no,n');
+    alert('answer the following question by yes,y or no,n');
     var answer =prompt('I\'m under 26 years old');
     answer = answer.toLowerCase();
     var response;
